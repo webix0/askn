@@ -1,0 +1,36 @@
+{
+	"variables": {
+		"global-font-color": "#333",
+		"global-font-family": "'Josefin Sans', serif",
+		"global-font-size": "20",
+		"global-font-line-height": "1.4",
+		"highlight-font-family": "Lato, sans-serif",
+		"content-width": "45",
+		"dropdown-symbol-width": "0.7em",
+		"small-font-size": "16",
+		"regular-font-size": "20",
+		"large-font-size": "36",
+		"larger-font-size": "48",
+
+		
+		"yellow": "#FDBB0D",
+		"light-blue": "#35A1CF",
+		"blue": "#2A80B9",
+		"red": "#BF3A2B",
+		"turquoise": "#32C3D0",
+		"purple": "#7F47DD",
+		"light-green": "#8CC63F",
+		"green": "#39B54A",
+		"rust": "#E06C1E",
+		"orange": "#F6AF21",
+		"light-orange": "#F2C14E",
+		"gray": "#505050",
+		"white": "#ffffff"
+	},
+	"queries": {
+		"narrow-menu-query": "screen and (max-width: 37.5em)",
+		"wide-menu-query": "screen and (min-width: 37.5em)",
+		"content-query": "screen and (min-width: 48em)",
+		"sidebar-query": "screen and (min-width: 60em)"
+	}
+}
